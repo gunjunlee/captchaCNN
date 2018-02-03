@@ -3,4 +3,4 @@ recognize captcha with CNN
 
 training with mnist data set
 
-99% accuacy
+99% accuracy
